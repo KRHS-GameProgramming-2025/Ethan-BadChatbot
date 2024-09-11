@@ -113,6 +113,10 @@ elif country == "New Zealand":
     print ("The one thats forgotten on a map.")
 elif country == "new zealand":
     print ("The one thats forgotten on a map.")
+elif country == "Egypt":
+    print ("Ive never been but i heard camels are cool!")
+elif country == "egypt":
+    print ("Ive never been but i heard camels are cool!")
 else:
     print ("Yooo " + country + " Is sickkk")
 
