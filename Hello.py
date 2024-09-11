@@ -31,7 +31,7 @@ else:
 
 cat = ""
 while cat.lower() != "yes" and cat.lower() != "no":
-    cat = input ("Say.. Are you a fan of cats? ") 
+    cat = input ("Are you a fan of cats? ") 
     if cat == "no":
         print ("thats a shame.")
     elif cat == "No":
@@ -55,4 +55,61 @@ elif country == "USA":
     print ("God Bless MERICA!!")
 elif country == "usa":
     print ("God Bless MERICA!!")
-
+elif country == "Russia": 
+    print ("Russia isnt very good.")
+elif country == "russia":
+    print ("Russia isnt very good.")
+elif country == "Soviet Union":
+    print ("Better dead than red!")
+elif country == "soviet union": 
+    print ("Better dead than red!")
+elif country == "United Kingdom":
+    print ("Fancy for a cup of tea bruv?")
+elif country == "united kingdom":
+    print ("Fancy for a cup of tea bruv?")
+elif country == "UK":
+    print ("Fancy for a cup of tea bruv?")
+elif country == "uk":
+    print ("Fancy for a cup of tea bruv?")
+elif country == "Britian":
+    print ("Thats a great country innit?")
+elif country == "britian":
+    print ("Thats a great country innit?")
+elif country == "France":
+    print ("Viva la france!")
+elif country == "france":
+    print ("Viva la france!")
+elif country == "Germany":
+    print ("Ja Ja My friend!")
+elif country == "germany":
+    print ("Ja Ja My friend!")
+elif country == "Japan":
+    print ("You like anime dont you.")
+elif country == "japan":
+    print ("You like anime dont you.")
+elif country == "Poland":
+    print ("The creator of this chatbot is polish!")
+elif country == "poland":
+    print ("The creator of this chatbot is polish!")
+elif country == "Australia":
+    print ("!ǝɯosǝʍɐ sᴉ ɐᴉlɐɹʇsnⱯ")
+elif country == "australia":
+    print ("!ǝɯosǝʍɐ sᴉ ɐᴉlɐɹʇsnⱯ")
+elif country == "Canada":
+    print ("Our friends up north huh?!")
+elif country == "canada":
+    print ("Our friends up north huh?!")
+elif country == "USSR":
+    print ("Better dead than red!")
+elif country == "North Korea":
+    print ("WE LOVE KIM!!!")
+elif country == "north korea":
+    print ("WE LOVE KIM!!!")
+elif country == "China":
+    print ("I love the CCP!")
+elif country == "china":
+    print ("I love the CCP!")
+elif country == "New Zealand":
+    print ("The one thats forgotten on a map.")
+elif country == "new zealand":
+    print ("The one thats forgotten on a map.")
