@@ -113,3 +113,5 @@ elif country == "New Zealand":
     print ("The one thats forgotten on a map.")
 elif country == "new zealand":
     print ("The one thats forgotten on a map.")
+else:
+    print ("Yooo " + country + " Is sickkk")
