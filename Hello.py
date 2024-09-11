@@ -37,9 +37,9 @@ while cat.lower() != "yes" and cat.lower() != "no":
     elif cat == "No":
         print ("thats a shame.")
     elif cat == "Yes":
-        print ("Samee meowww :3")
+        print ("Samee  ")
     elif cat == "yes":
-        print ("Samee meowww :3")
+        print ("Samee  ")
     else:
         print ("Its a yes or no question. " + name )
 country = input ("Okay last question which is kind of random.. What's your favorite country! ")
@@ -116,4 +116,4 @@ elif country == "new zealand":
 else:
     print ("Yooo " + country + " Is sickkk")
 
-input()
+input("Okay... Bye.")
